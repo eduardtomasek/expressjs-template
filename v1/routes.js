@@ -1,3 +1,7 @@
+/**
+ * Combine routes into single one file
+ */
+
 const express = require('express')
 
 /**

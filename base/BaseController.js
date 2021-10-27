@@ -1,3 +1,7 @@
+/**
+ * Basic class for data response
+ */
+
 class BaseController {
 	constructor (req, res) {
 		this.request = req;
